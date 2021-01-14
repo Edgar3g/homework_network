@@ -18,5 +18,10 @@
 
  ## Funcionalidades desponiveis:
     
-   - 
+   - Exibir :
+       * BoadCast
+       * IP's validos das primeiras sub-rede
+       * Salto
+       * Faixas de sub-rede
+
  ## Author: Edgar A. Dikenge
